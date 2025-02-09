@@ -22,8 +22,8 @@ This project is designed to scan and detect I2C devices connected to an ESP32 mi
 ## Setup & Installation
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/I2C-Address-Read.git
-cd I2C-Address-Read
+git clone https://github.com/Chinmay-ESP/ESP32-I2C-Master.git
+cd ESP32-I2C-Master
 ```
 
 ### 2. Set Up ESP-IDF
